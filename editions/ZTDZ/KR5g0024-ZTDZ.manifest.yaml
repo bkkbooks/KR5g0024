@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0024/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0024/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上北極伏魔神咒殺鬼籙
+  date: '2015-08-29 02:25:38.214279'
+  source:
+    repository: kanripo
+    path: KR5g0024
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0024_000-ZTDZ.yaml, hash: 'sha256:76bade791851fd930ef24b0d7ac2015700da638873e67c3af53a1ff2cb09c4ea'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0024_000-ZTDZ.markers.yaml, hash: 'sha256:c7e3d2e265ad202fcb0c49d0a91e0ccfe65c760114814017d0b783f6388067c0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0024_SJB_000-280522a
+    span:
+    - body
+    - 0
+    - 2876
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:1e9a8825aff19347ebd65285788c005bd30ab6c934891ac3bf39b35de64c1614
